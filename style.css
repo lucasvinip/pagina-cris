@@ -1,0 +1,86 @@
+html{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    text-align: center;
+    clear: both;
+    border-bottom: solid 2px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    
+  
+}
+
+.papaicris{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    float: left;
+    border: transparent thin solid;
+    border-radius: 20px;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    padding-left: 1%;
+    
+    
+}
+
+p{
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    padding-left: 1%;
+}
+
+h2{
+    text-align: center;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 27px;
+}
+
+h3{
+    text-align: center;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 27px;
+}
+
+h4{
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 27px;
+    padding-left: 1%;
+}
+
+ul li{
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    text-indent: 1em;
+}
+
+.robozao{
+    display: block;
+    margin: 0px auto;
+    height: 300px;
+    border: transparent thin solid;
+    border-radius: 10px;
+    clear: both;
+    padding-top: 1%;
+}
+
+h5{
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 27px;
+    padding-left: 1%;
+}
+
+    
+
+
+footer{
+    border-top: solid 1px;
+    text-align: right;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    color: gray;
+
+}
