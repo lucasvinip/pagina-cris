@@ -90,8 +90,5 @@
                     }
                     
                     @media (max-width:960px) {
-                        .papaicris {
-                            height: 35vh;
-                            width: 35vw;
-                        }
+                        .papaicris {}
                     }
